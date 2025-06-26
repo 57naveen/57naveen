@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Mohana Srinivasan</h1>
+<h1 align="center">👋 Hey, I'm Naveen Kishore</h1>
 <h3 align="center"> DevOps Engineer | Cloud & Infrastructure Specialist | Automation Enthusiast</h3>
 
 ---
@@ -111,11 +111,10 @@ I'm a passionate DevOps Engineer focused on building secure, scalable cloud infr
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohan6201/Mohan6201/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohan6201/Mohan6201/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Mohan6201/Mohan6201/output/github-snake.svg" />
-  </picture>
+  <a href="https://github.com/57naveen"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp;
+  <a href="mailto:naveensnk057@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32" height="32" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/naveenkishore-s"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="32" height="32" /></a> &nbsp;
+  <a href="https://your-portfolio-link.com"><img src="https://img.icons8.com/?size=512&id=KjWmL4sgqA2V&format=png" width="32" height="32" /></a>
 </p>
 
 ---
