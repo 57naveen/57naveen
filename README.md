@@ -1,27 +1,23 @@
 <h1 align="center">👋 Hey, I'm Naveen Kishore</h1>
-<h3 align="center"> DevOps Engineer | Cloud & Infrastructure Specialist | Automation Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | React.js Enthusiast | AI/ML-Powered App Builder</h3>
 
 ---
 
 ### 🌟 About Me
 
-I'm a passionate DevOps Engineer focused on building secure, scalable cloud infrastructure and automating every step of the deployment lifecycle. I specialize in:
+I'm a dedicated **Full-Stack Developer** with experience building modern, scalable, and secure web applications. My work spans from creating responsive frontends in React.js to building powerful backend services using Node.js, Express, and Django.
 
-- AWS cloud environments (EC2, S3, IAM, Load Balancers, Route 53, etc.)
-- CI/CD pipelines with GitHub Actions & ServiceNow integrations
-- Containerization using Docker & Docker Compose
-- Application deployments (Django + React)
-- AI/ML infra setup using MLflow and LLMs like LLaMA 3.1
-- Visualization using Apache Superset
+I enjoy working on real-world problems, especially where AI/ML intersects with user-friendly design and clean architecture.
 
 ---
 
 ### 🔭 What I'm Up To
 
-- 🚀 Refining: Cloud automation, CI/CD, and AI deployment flows  
-- 🤖 Exploring: ML/AI ops and GPU-based large model inference  
-- 🛠️ Building: Full-stack apps and monitoring dashboards  
-- 🌱 Learning: Serverless patterns, advanced Docker networking  
+- 🚀 Refining: Scalable full-stack architectures using React.js, Node.js, and Django  
+- 🤖 Exploring: AI-powered features like chat-based recommendation systems and demand forecasting  
+- 🛠️ Building: Real-world projects like DevTinder using microservices, secure auth, and clean UI  
+- 🌱 Learning: Advanced frontend patterns (Shadcn/UI, Framer Motion) and backend API optimization  
+
 
 <p align="center">
   <img src="git.gif" alt="Working animation" width="800"/>
@@ -29,81 +25,35 @@ I'm a passionate DevOps Engineer focused on building secure, scalable cloud infr
 
 ---
 
-## 🧰 My Toolbox
+---
 
-<table align="center">
-  <tr>
-    <td valign="top"><strong>☁️ Cloud & Infrastructure</strong>
-      <ul>
-        <li>AWS (EC2, S3, IAM, RDS, ACM, LB, Route 53)</li>
-        <li>Amazon Linux 2023, AMI, CloudFront, CloudTrail</li>
-        <li>Elastic Beanstalk, VPN, IAM Roles</li>
-      </ul>
-    </td>
-    <td valign="top"><strong>⚙️ CI/CD & Automation</strong>
-      <ul>
-        <li>GitHub Actions</li>
-        <li>ServiceNow REST API Explorer</li>
-        <li>Bash scripting, Supervisor (daemon mode)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>🐳 Containers & Virtualization</strong>
-      <ul>
-        <li>Docker, Docker Compose</li>
-        <li>Hyper-V, Windows Server Manager, IIS</li>
-      </ul>
-    </td>
-    <td valign="top"><strong>🌐 Full-Stack Web Dev</strong>
-      <ul>
-        <li>Django, React</li>
-        <li>Python Virtual Environments</li>
-        <li>Postman, REST APIs</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>📊 Data Analytics & ML Ops</strong>
-      <ul>
-        <li>Apache Superset, MySQL</li>
-        <li>Pandas, NumPy, MLflow</li>
-        <li>Jupyter Notebooks, LLaMA 3.1</li>
-      </ul>
-    </td>
-    <td valign="top"><strong>🧪 Testing & Monitoring</strong>
-      <ul>
-        <li>Apache JMeter – Load Testing</li>
-        <li>Server Optimization & Logs</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>💾 DB & Reporting</strong>
-      <ul>
-        <li>SSMS, SSRS, Crystal Reports</li>
-        <li>Bartender Print Management</li>
-      </ul>
-    </td>
-    <td valign="top"><strong>🏢 SCM & Enterprise Tools</strong>
-      <ul>
-        <li>Körber WMS, Advantage Architect</li>
-        <li>Page Editor, Jira, Confluence</li>
-        <li>ServiceNow, Slack, MS Teams</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🛠️ Technical Skills
+
+**Languages:** JavaScript, SQL, Python (Basics)  
+**Frontend:** React.js, Tailwind CSS, Shadcn/UI, Framer Motion, Redux, HTML, CSS, jQuery  
+**Backend:** Node.js, Express.js, Django, REST APIs, JWT, GraphQL  
+**Databases:** MongoDB, MSSQL, Redis  
+**Tools:** Postman, Git, GitHub, PM2, AWS EC2, NGINX
+
+---
+
+
+### 📜 Certifications
+
+**Full-Stack Web Development Certificate**  
+- Covered React.js (basic to advanced), Redux, Tailwind CSS  
+- Built live projects like Swiggy, Netflix, YouTube, and DevTinder clones  
+- Backend training included Node.js, Express.js, and MongoDB with REST API design
 
 ---
 
 ## 🔗 Connect with Me
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
-  <a href="https://www.github.com/Mohan6201"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
-  <a href="https://ms-portfolio-caee4.web.app"><img src="actual_icon.ico" width="36" height="36" /></a> &nbsp &nbsp
+  <a href="https://www.github.com/57naveen"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
+  <a href="https://portfolio-new-57naveens-projects.vercel.app/"><img src="user (2).png" width="36" height="36" /></a> &nbsp &nbsp
   <!-- <a href="http://www.instagram.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp &nbsp -->
-  <a href="https://www.linkedin.com/in/Mohan6201"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/naveenkishore-s"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ---
