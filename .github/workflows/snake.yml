@@ -21,7 +21,7 @@ jobs:
       - name: 🐍 Generate Snake SVG & Dark Mode
         uses: Platane/snk@v3
         with:
-          github_user_name: 57naveen
+          github_user_name: Naveen
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
