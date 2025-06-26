@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Naveen Kishore</h1>
-<h3 align="center">Full-Stack Developer | React.js Enthusiast | AI/ML-Powered App Builder</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Frontend & Backend | React | Node Js |</h3>
 
 ---
 
