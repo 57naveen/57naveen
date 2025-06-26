@@ -111,10 +111,11 @@ I'm a passionate DevOps Engineer focused on building secure, scalable cloud infr
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/57naveen"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp;
-  <a href="mailto:naveensnk057@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32" height="32" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/naveenkishore-s"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="32" height="32" /></a> &nbsp;
-  <a href="https://your-portfolio-link.com"><img src="https://img.icons8.com/?size=512&id=KjWmL4sgqA2V&format=png" width="32" height="32" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/57naveen/57naveen/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/57naveen/57naveen/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/57naveen/57naveen/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
